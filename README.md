@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @begieian
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me begieianrivera@gmail.com
 
