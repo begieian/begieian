@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Begie Ian Rivera
 - 👀 I’m interested in gaming and enhancing my IT skills
-- 🌱 I’m currently learning DevOps and SRE skillset
+- 🌱 I’m currently learning DevOps and SRE skillsets
 - 💞️ I’m looking to collaborate with IT and Dev enthusiasts
 - 📫 You can reach me at begieianrivera@gmail.com | begie.rivera-ext@consensys.net
 - 😄 Pronouns: Be-ji
