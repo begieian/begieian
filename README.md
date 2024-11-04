@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Begie Ian Rivera
-- 🌱 I’m currently working as a NOC Engineer
-- 👀 I’m interested in improving my Tech skills
+- 🧑‍💻 I’m currently working as a NOC Engineer
+- 🌱 I’m currently improving my IT skills
 - 💞️ I’m looking to collaborate with Tech enthusiasts
 - 📫 You can reach me at begieianrivera@gmail.com | begie.rivera-ext@consensys.net
 - 😄 Pronouns: Be-ji
