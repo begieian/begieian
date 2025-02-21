@@ -2,7 +2,7 @@
 - 🧑‍💻 I’m currently working as a NOC Engineer
 - 🌱 I’m currently improving my IT skills
 - 💞️ I’m looking to collaborate with everyone
-- 📫 You can reach me at begieianrivera@gmail.com | begie.rivera-ext@consensys.net
+- 📫 You can reach me at begieianrivera@gmail.com
 - 😄 Pronouns: Be-ji
 - ⚡ Fun fact: I'm an ambivert
 
