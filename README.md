@@ -1,5 +1,5 @@
 - 💻: Currently working as a NOC Engineer.
-- 🛠️: Currently working on my DevOps skills.
+- 🌥️: Currently working on my Cloud skills.
 - ☕: A Coffee lover
 - 🎮: A Gamer
 
