@@ -1,4 +1,4 @@
-- 💻: Currently working as a NOC Engineer.
+- 💻: Currently working as an External NOC Engineer for our Client and NOC Specialist at my current Organization.
 - 🌥️: Currently working on my Cloud skills.
 - ☕: A Coffee lover
 - 🎮: A Gamer
